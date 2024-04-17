@@ -1,0 +1,117 @@
+Gender,Working_City,Marriage status/ Kids,Annual Salary,Age,Work Experience,Average Commute Time,Industry,Job Profile,Work Mode,Employment Type,Flexibility in office Timings,Number of total paid leaves,Working days in Week,Actual Work hours per week,Expected Work hours per week,Worklife Balance
+Male,Pune,Married and No Kids,35Lacs +,31,6,0,"Banking, Finance & Insurance",Technology,Work From Home (WFH),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri or 5 days,55,45,1
+Male,Mumbai,Un Married,15Lacs to 20Lacs,30,3,30,"Banking, Finance & Insurance",Others,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,21,Mon to Fri & Alternate Saturdays,54,45,1
+Male,Mumbai,Un Married,20Lacs to 25Lacs,28,3,90,"Banking, Finance & Insurance",Technology,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,22,Mon to Fri & Alternate Saturdays,60,45,1
+Female,Others,Married and No Kids,5Lacs to 10Lacs,29,4,25,Medical/ Healthcare,Operations,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Sat or 6 days,50,45,1
+Male,Pune,Un Married,5Lacs to 10Lacs,29,5,15,"Banking, Finance & Insurance",Technology,Work From Office (WFO),Internship,Liberal working hours,0,Mon to Fri or 5 days,45,45,1
+Male,Pune,Un Married,10Lacs to 15Lacs,26,3,100,"Banking, Finance & Insurance",Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,40,Mon to Fri or 5 days,45,45,1
+Male,Pune,Un Married,10Lacs to 15Lacs,24,3,30,"Banking, Finance & Insurance",Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,40,Mon to Fri or 5 days,35,40,1
+Male,Pune,Married and No Kids,15Lacs to 20Lacs,28,5,45,"Banking, Finance & Insurance",Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri or 5 days,45,45,1
+Male,Pune,Married and No Kids,0 to 5 Lacs,28,7,60,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,24,Mon to Fri or 5 days,55,40,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,36,15,45,Others,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,29,Mon to Fri or 5 days,60,50,1
+Male,Bangalore,Un Married,0 to 5 Lacs,24,2,40,Information & Technology,Engineering,Work From Office (WFO),Contract Basis,Fixed working hours,0,Mon to Sat or 6 days,42,42,1
+Male,Pune,Married and have Kids,25Lacs to 30Lacs,30,7,60,Consulting,Technology,Hybrid (WFH + WFO),Internship,Fixed working hours,30,Mon to Fri or 5 days,40,40,1
+Female,Mumbai,Un Married,30Lacs to 35Lacs,29,6,35,"Banking, Finance & Insurance",Others,Work From Home (WFH),Permanent - Company Payroll,Semi-Fixed working hours,30,Mon to Fri & Alternate Saturdays,40,48,1
+Male,Others,Married and have Kids,20Lacs to 25Lacs,44,24,20,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,60,Mon to Sat or 6 days,44,44,1
+Female,Pune,Un Married,5Lacs to 10Lacs,27,3,40,"Banking, Finance & Insurance",Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri or 5 days,40,40,1
+Female,Others,Un Married,10Lacs to 15Lacs,25,3,0,Medical/ Healthcare,Operations,Work From Home (WFH),Permanent - Company Payroll,Semi-Fixed working hours,30,Mon to Sat or 6 days,48,48,1
+Male,Others,Un Married,0 to 5 Lacs,26,2,10,Manufacturing,Others,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri & Alternate Saturdays,40,45,1
+Female,Others,Un Married,0 to 5 Lacs,25,4,5,Others,Sales,Work From Home (WFH),Permanent - Company Payroll,Liberal working hours,10,Mon to Sat or 6 days,35,35,1
+Female,Others,Un Married,0 to 5 Lacs,25,3,30,Others,Others,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Sat or 6 days,44,44,1
+Male,Delhi & NCR,Un Married,20Lacs to 25Lacs,29,4,90,"Banking, Finance & Insurance",Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,50,Mon to Fri or 5 days,60,45,0
+Male,Hyderabad,Married and have Kids,20Lacs to 25Lacs,50,29,75,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,28,Mon to Fri or 5 days,50,48,1
+Male,Delhi & NCR,Un Married,30Lacs to 35Lacs,28,6,15,Consulting,Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri or 5 days,45,50,1
+Male,Others,Un Married,10Lacs to 15Lacs,31,11,45,Construction,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,40,Mon to Sat or 6 days,84,72,1
+Male,Bangalore,Un Married,15Lacs to 20Lacs,25,5,25,Others,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,25,Mon to Fri or 5 days,40,40,1
+Male,Others,Married and have Kids,10Lacs to 15Lacs,33,13,30,Manufacturing,Others,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,7,Mon to Sat or 6 days,34,42,1
+Female,Others,Un Married,20Lacs to 25Lacs,25,3,30,Others,Others,Hybrid (WFH + WFO),Freelancing,Liberal working hours,5,Mon to Fri or 5 days,15,15,1
+Male,Pune,Married and have Kids,5Lacs to 10Lacs,28,8,90,Manufacturing,Operations,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Sat or 6 days,45,51,1
+Female,Bangalore,Un Married,0 to 5 Lacs,28,3,30,Medical/ Healthcare,Others,Work From Office (WFO),Internship,Fixed working hours,12,Mon to Sat or 6 days,42,42,1
+Female,Others,Un Married,0 to 5 Lacs,27,3,45,Information & Technology,Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,20,Mon to Fri & Alternate Saturdays,36,48,0
+Male,Bangalore,Un Married,0 to 5 Lacs,28,7,60,Others,Engineering,Work From Office (WFO),Contract Basis,Semi-Fixed working hours,24,Mon to Sat or 6 days,55,48,0
+Male,Pune,Un Married,10Lacs to 15Lacs,28,8,60,Manufacturing,Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,31,Mon to Fri or 5 days,45,45,1
+Male,Delhi & NCR,Un Married,10Lacs to 15Lacs,34,9,90,Information & Technology,Operations,Work From Home (WFH),Permanent - Company Payroll,Fixed working hours,25,Mon to Fri or 5 days,56,56,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,36,15,5,Consulting,Engineering,Work From Home (WFH),Permanent - Company Payroll,Fixed working hours,20,Mon to Fri or 5 days,40,40,1
+Female,Pune,Married and No Kids,20Lacs to 25Lacs,30,5,40,"Banking, Finance & Insurance",Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,30,Mon to Fri or 5 days,45,54,1
+Female,Mumbai,Un Married,5Lacs to 10Lacs,24,6,30,Consulting,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,42,Mon to Fri or 5 days,40,40,1
+Female,Bangalore,Married and No Kids,10Lacs to 15Lacs,29,8,0,Manufacturing,Engineering,Work From Home (WFH),Permanent - Company Payroll,Fixed working hours,23,Mon to Fri or 5 days,40,45,1
+Male,Hyderabad,Married and No Kids,35Lacs +,33,10,45,Information & Technology,Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,28,Mon to Fri or 5 days,60,48,1
+Male,Pune,Un Married,5Lacs to 10Lacs,29,5,30,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,20,Mon to Fri or 5 days,40,40,1
+Male,Bangalore,Un Married,15Lacs to 20Lacs,28,5,0,Information & Technology,Engineering,Work From Home (WFH),Permanent - Company Payroll,Liberal working hours,21,Mon to Fri or 5 days,55,40,0
+Male,Others,Married and have Kids,10Lacs to 15Lacs,32,13,10,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,38,Mon to Sat or 6 days,65,50,1
+Male,Delhi & NCR,Married and have Kids,25Lacs to 30Lacs,35,14,20,Others,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,25,Mon to Fri or 5 days,40,48,0
+Female,Pune,Un Married,0 to 5 Lacs,26,5,9,Consulting,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,39,Mon to Fri or 5 days,45,30,1
+Male,Kochi,Un Married,5Lacs to 10Lacs,27,5,90,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,12,Mon to Fri or 5 days,45,45,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,32,10,75,Others,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,30,Mon to Fri or 5 days,60,40,0
+Male,Pune,Un Married,5Lacs to 10Lacs,28,6,30,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri or 5 days,63,42.5,0
+Male,Pune,Un Married,10Lacs to 15Lacs,29,10,5,Information & Technology,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,38,Mon to Fri or 5 days,48,45,1
+Male,Mumbai,Un Married,10Lacs to 15Lacs,28,5,55,"Banking, Finance & Insurance",Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri or 5 days,50,40,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,32,11,10,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,24,Mon to Fri or 5 days,40,40,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,31,8,60,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,24,Mon to Fri or 5 days,45,40,1
+Female,Pune,Un Married,0 to 5 Lacs,26,2,20,Consulting,Engineering,Hybrid (WFH + WFO),Contract Basis,Fixed working hours,21,Mon to Fri or 5 days,50,45,1
+Male,Bangalore,Un Married,0 to 5 Lacs,24,2,180,Information & Technology,Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,18,Mon to Fri or 5 days,45,45,1
+Male,Bangalore,Un Married,0 to 5 Lacs,25,3,105,Information & Technology,Technology,Hybrid (WFH + WFO),Contract Basis,Fixed working hours,15,Mon to Fri or 5 days,47.5,47.5,1
+Male,Bangalore,Un Married,5Lacs to 10Lacs,24,2,15,Information & Technology,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,28,Mon to Fri or 5 days,35,40,1
+Male,Pune,Un Married,5Lacs to 10Lacs,27,6,60,Others,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,28,Mon to Fri or 5 days,48,48,1
+Female,Delhi & NCR,Un Married,5Lacs to 10Lacs,24,3,10,Consulting,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,33,Mon to Fri or 5 days,48,40,1
+Male,Hyderabad,Married and have Kids,5Lacs to 10Lacs,32,10,30,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,20,Mon to Sat or 6 days,48,70,1
+Male,Delhi & NCR,Un Married,5Lacs to 10Lacs,33,9,90,Information & Technology,Technology,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,29,Mon to Fri or 5 days,45,45,1
+Male,Others,Married and No Kids,20Lacs to 25Lacs,42,24,30,Construction,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,30,Mon to Sat or 6 days,84,72,1
+Male,Others,Un Married,0 to 5 Lacs,27,4,15,Others,Engineering,Work From Office (WFO),Contract Basis,Fixed working hours,8,Mon to Fri or 5 days,40,48,1
+Male,Others,Un Married,0 to 5 Lacs,28,3,8,Medical/ Healthcare,Administrative,Work From Home (WFH),Permanent - Company Payroll,Fixed working hours,2,Mon to Sat or 6 days,48,48,1
+Male,Pune,Married and have Kids,0 to 5 Lacs,37,16,100,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri or 5 days,50,40,1
+Male,Pune,Un Married,5Lacs to 10Lacs,28,10,20,Others,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,29,Mon to Fri or 5 days,47,45,1
+Female,Pune,Un Married,0 to 5 Lacs,24,2,30,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,24,Mon to Sat or 6 days,60,48,0
+Male,Pune,Un Married,5Lacs to 10Lacs,25,3,90,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,32,Mon to Fri or 5 days,45,42.5,1
+Female,Bangalore,Un Married,5Lacs to 10Lacs,24,2,90,Information & Technology,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,19,Mon to Fri or 5 days,50,45,1
+Male,Hyderabad,Un Married,15Lacs to 20Lacs,27,2,15,"Banking, Finance & Insurance",Technology,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,22,Mon to Fri & Alternate Saturdays,60,45,1
+Male,Others,Un Married,0 to 5 Lacs,24,1,30,Construction,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,14,Mon to Sat or 6 days,66,45,0
+Male,Bangalore,Married and No Kids,10Lacs to 15Lacs,34,10,30,Manufacturing,Sales,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,60,Mon to Fri or 5 days,45,45,1
+Male,Others,Married and No Kids,5Lacs to 10Lacs,28,9,150,Manufacturing,Sales,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,30,Mon to Sat or 6 days,48,48,1
+Male,Others,Married and have Kids,0 to 5 Lacs,31,7,30,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,13,Mon to Sat or 6 days,40,40,1
+Male,Others,Married and No Kids,15Lacs to 20Lacs,34,12,5,Others,Administrative,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,50,Mon to Fri or 5 days,60,30,1
+Male,Others,Un Married,0 to 5 Lacs,27,5,30,Others,Sales,Hybrid (WFH + WFO),Contract Basis,Liberal working hours,48,Mon to Sat or 6 days,40,48,1
+Male,Others,Un Married,0 to 5 Lacs,25,5,60,Others,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,2,Mon to Sat or 6 days,48,36,1
+Male,Others,Un Married,5Lacs to 10Lacs,28,10,55,Manufacturing,Others,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,36,Mon to Sat or 6 days,75,54,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,33,10,10,Others,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,35,Mon to Fri or 5 days,50,45.5,1
+Male,Kochi,Un Married,5Lacs to 10Lacs,27,3,0,Manufacturing,Engineering,Work From Home (WFH),Freelancing,Liberal working hours,0,Mon to Fri & Alternate Saturdays,48,72,0
+Male,Kochi,Un Married,15Lacs to 20Lacs,28,2,20,Information & Technology,Technology,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,22,Mon to Fri or 5 days,40,40,1
+Male,Pune,Married and No Kids,10Lacs to 15Lacs,33,9,35,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,29,Mon to Fri or 5 days,45,45,1
+Male,Pune,Married and have Kids,5Lacs to 10Lacs,30,6,75,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,32,Mon to Fri or 5 days,50,45,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,37,13,45,Manufacturing,Engineering,Work From Home (WFH),Permanent - Company Payroll,Semi-Fixed working hours,29,Mon to Fri or 5 days,50,40,1
+Male,Bangalore,Un Married,25Lacs to 30Lacs,27,7,20,Information & Technology,Engineering,Work From Office (WFO),Contract Basis,Liberal working hours,15,Mon to Fri or 5 days,70,30,0
+Male,Pune,Un Married,5Lacs to 10Lacs,26,4,45,Manufacturing,Operations,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,30,Mon to Fri or 5 days,50,45,1
+Female,Others,Un Married,5Lacs to 10Lacs,24,2,5,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,60,Mon to Fri or 5 days,45,40,1
+Male,Mumbai,Married and have Kids,20Lacs to 25Lacs,38,16,90,Manufacturing,Others,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri & Alternate Saturdays,50,45,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,33,13,30,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,45,Mon to Fri or 5 days,45,40,1
+Male,Kochi,Un Married,0 to 5 Lacs,26,8,30,Others,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,12,Mon to Fri & Alternate Saturdays,48,48,1
+Male,Pune,Married and have Kids,15Lacs to 20Lacs,32,11,65,Manufacturing,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri or 5 days,40,48,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,35,15,10,Manufacturing,Technology,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,28,Mon to Fri or 5 days,40,40,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,37,16,20,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,35,Mon to Fri or 5 days,55,40,0
+Male,Pune,Married and have Kids,35Lacs +,53,29,90,Manufacturing,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Fri or 5 days,45,45,1
+Male,Kochi,Married and No Kids,10Lacs to 15Lacs,27,6,30,Information & Technology,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,20,Mon to Fri or 5 days,40,40,1
+Male,Pune,Married and have Kids,35Lacs +,49,25,90,Manufacturing,Sales,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,34,Mon to Fri or 5 days,50,45,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,42,19,25,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,40,Mon to Fri or 5 days,56,48,1
+Male,Pune,Married and have Kids,5Lacs to 10Lacs,24,6,100,Manufacturing,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,35,Mon to Fri or 5 days,60,40,0
+Male,Pune,Married and No Kids,5Lacs to 10Lacs,30,8,20,Manufacturing,Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,29,Mon to Fri or 5 days,50,48,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,32,12,20,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,30,Mon to Fri or 5 days,40,45,1
+Male,Pune,Married and have Kids,20Lacs to 25Lacs,48,27,90,Others,Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,29,Mon to Fri or 5 days,50,40,1
+Male,Delhi & NCR,Un Married,10Lacs to 15Lacs,30,8,10,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Liberal working hours,42,Mon to Sat or 6 days,84,56,0
+Male,Pune,Un Married,5Lacs to 10Lacs,28,7,45,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,28,Mon to Sat or 6 days,48,48,1
+Female,Pune,Married and No Kids,5Lacs to 10Lacs,35,15,90,Others,Engineering,Work From Office (WFO),Contract Basis,Semi-Fixed working hours,21,Mon to Fri & Alternate Saturdays,52,45,1
+Male,Pune,Married and No Kids,5Lacs to 10Lacs,29,8,60,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,33,Mon to Fri or 5 days,45,45,1
+Male,Bangalore,Married and have Kids,35Lacs +,41,20,60,Medical/ Healthcare,Others,Hybrid (WFH + WFO),Permanent - Company Payroll,Semi-Fixed working hours,44,Mon to Fri or 5 days,45,40,1
+Male,Pune,Married and No Kids,5Lacs to 10Lacs,27,10,40,Construction,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,29,Mon to Fri or 5 days,40,45,1
+Female,Others,Un Married,0 to 5 Lacs,26,2,25,Medical/ Healthcare,Administrative,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,28,Mon to Sat or 6 days,54,48,1
+Male,Pune,Married and have Kids,25Lacs to 30Lacs,39,19,20,Manufacturing,Technology,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,38,Mon to Fri or 5 days,48,48,1
+Male,Pune,Married and have Kids,20Lacs to 25Lacs,41,18,45,Manufacturing,Sales,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,28,Mon to Fri or 5 days,60,40,0
+Male,Kochi,Un Married,35Lacs +,27,7,15,Others,Engineering,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,24,Mon to Fri & Alternate Saturdays,72,48,0
+Male,Delhi & NCR,Married and No Kids,5Lacs to 10Lacs,31,7,45,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,30,Mon to Fri & Alternate Saturdays,54,48,1
+Male,Others,Married and No Kids,5Lacs to 10Lacs,32,13,60,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,20,Mon to Sat or 6 days,60,72,1
+Male,Others,Married and have Kids,5Lacs to 10Lacs,28,10,116.6666667,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,30,Mon to Sat or 6 days,50,50,1
+Male,Delhi & NCR,Married and have Kids,5Lacs to 10Lacs,37,16,40,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,42,Mon to Fri & Alternate Saturdays,70,48,1
+Male,Kochi,Un Married,0 to 5 Lacs,28,7,15,Others,Engineering,Work From Office (WFO),Contract Basis,Fixed working hours,4,Mon to Sat or 6 days,50,48,1
+Female,Others,Married and have Kids,15Lacs to 20Lacs,37,14,15,Information & Technology,Operations,Hybrid (WFH + WFO),Permanent - Company Payroll,Liberal working hours,20,Mon to Fri or 5 days,60,42.5,1
+Male,Delhi & NCR,Married and No Kids,5Lacs to 10Lacs,27,7,40,"Banking, Finance & Insurance",Sales,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,25,Mon to Sat or 6 days,54,54,1
+Male,Pune,Un Married,5Lacs to 10Lacs,29,8,70,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Fixed working hours,27,Mon to Sat or 6 days,48,48,1
+Male,Pune,Married and have Kids,10Lacs to 15Lacs,33,10,90,Manufacturing,Engineering,Work From Office (WFO),Permanent - Company Payroll,Semi-Fixed working hours,21,Mon to Fri & Alternate Saturdays,54,54,1
